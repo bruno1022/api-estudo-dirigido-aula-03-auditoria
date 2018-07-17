@@ -1,0 +1,6 @@
+auditoria\Log.class
+auditoria\Application.class
+auditoria\LambdaRequestStreamHandler.class
+auditoria\LambdaMethodHandler.class
+auditoria\AuditoriaController.class
+auditoria\LambdaRequestHandler.class
