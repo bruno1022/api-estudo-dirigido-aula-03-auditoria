@@ -1,1 +1,3 @@
-# api-estudo-dirigido-aula-03-auditoria
+# API de Auditória
+
+API responsável pela auditoria da API de Livraria Virtual
